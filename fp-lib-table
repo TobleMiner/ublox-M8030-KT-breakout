@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "DFN_Murata")(type "KiCad")(uri "${KIPRJMOD}/lib/DFN_Murata.pretty")(options "")(descr ""))
+  (lib (name "Package_LGA_Murata")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_LGA_Murata.pretty")(options "")(descr ""))
+)

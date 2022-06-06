@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "GPS_ublox")(type "KiCad")(uri "${KIPRJMOD}/lib/GPS_ublox.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_LNA")(type "KiCad")(uri "${KIPRJMOD}/lib/RF_LNA.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Filter_SAW")(type "KiCad")(uri "${KIPRJMOD}/lib/RF_Filter_SAW.kicad_sym")(options "")(descr ""))
+)
